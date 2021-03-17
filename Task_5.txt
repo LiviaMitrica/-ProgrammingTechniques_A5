@@ -1,0 +1,11 @@
+Task5
+Activity : Duration over entire period
+Breakfast : 02:58:08
+Grooming : 02:40:42
+Toileting : 02:20:34
+Sleeping : 5 days 11:03:31
+Leaving : 1 days 03:44:44
+Spare_Time/TV : 5 days 22:28:55
+Snack : 00:06:01
+Showering : 01:34:09
+Lunch : 05:13:31
